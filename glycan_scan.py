@@ -1,6 +1,3 @@
-#change to github link
-from mgf_processing_pyfile import *
-
 import matplotlib.pyplot as plt
 import scipy as sci
 from scipy.stats import skew
